@@ -12,14 +12,6 @@ def num_guess(x):
         elif num_guess > random_number:
             print("Sorry, guess again. Too high. ")  # Clues for the game
 
-print(f"Good Job, you have guesed the number {random_number}!")
+print("Good Job, you have guesed the number !")
 
 num_guess(10)
-
-# Number Guesser for Computer to guess
-
-def computer_guess(x):
-    low = 1
-    high = x # creating boundaries for guessing
-    feedback = "" # we do this to not have the computer return a empty string
-    
