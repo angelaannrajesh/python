@@ -1,4 +1,4 @@
-from Tkinter import *
+from firstproject import *
 root = Tk()
 root.geometry("400x300")
 def Button2():
@@ -17,6 +17,5 @@ b2 = Button(f2, text = "Row 2",command = Button2)
 b2.pack()
 b3 = Button(f2, text = "Row 3",command = Button3)
 b3.pack()
-
 
 root.mainloop()

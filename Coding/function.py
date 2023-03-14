@@ -13,9 +13,7 @@ print(odd_even(6,7))
 # Replace both lower case and upper case occurrences
 
 def string(a,b):
-
-
-string("Dog","Lemon")
+  string("Dog","Lemon")
 #
 if repeat == "yes":
     num_1 = int(input("Enter your first number: "))

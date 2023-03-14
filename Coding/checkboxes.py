@@ -1,4 +1,4 @@
-from Tkinter import *
+from tkinter import *
 root = Tk()
 root.geometry("500x500")
 l1 = Label(root, text = "What are your hobbies ?")
