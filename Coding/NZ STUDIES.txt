@@ -1,0 +1,16 @@
+NZ Studies
+Five Oceans
+1.Pacific
+2.Atlantic
+3.Indian
+4.Southern
+5.Artic
+
+Seven Continents
+1. Asia
+2. Africa
+3. North America
+4. South America
+5. Antartica
+6. Europe
+7. Australia

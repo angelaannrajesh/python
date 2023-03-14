@@ -1,0 +1,13 @@
+Codevidhya Homework
+7/03/2023
+Task:
+
+Create one database with the name of contactDB.(studentt.db
+
+Write the following commands:
+
+Create table with the name of contacts and specify the related attributes.
+
+Insert at least 5 records in the contact table.
+
+Retrieve contacts from the table.
