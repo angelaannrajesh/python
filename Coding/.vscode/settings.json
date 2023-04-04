@@ -5,7 +5,7 @@
     "python.defaultInterpreterPath": "C:\\angel\\python\\Coding\\python.exe",
     "code-runner.clearPreviousOutput": true,
     "code-runner.runInTerminal": true,
-    "workbench.sideBar.location": "left",
+    "workbench.sideBar.location": "right",
     "workbench.activityBar.visible": false,
     "[python]":{
         "editor.wordBasedSuggestions": false

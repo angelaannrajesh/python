@@ -187,6 +187,8 @@ b3 = Button(root, command = Delete_Data, text = "delete data")
 b3.grid(row = 13,columnspan = 2,ipadx = 100)
 b4 = Button(root, text = "edit data",command = Update)
 b4.grid(row = 14, columnspan = 2,ipadx = 100)
+
+
 root.mainloop()
 
 

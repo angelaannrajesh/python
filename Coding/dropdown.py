@@ -1,19 +1,19 @@
-# from tkinter import *
-# root = Tk()
-# root.geometry("500x500")
-# var = StringVar(root)
-# var.set("Monday")
-# option = OptionMenu(root, var, "Tuesday", "Wendnesday", "Thursday", "Friday","Saturday", "Sunday")
-# option.pack()
-# def Select():
-#     print("You have selected",var.get())
-#     root.quit()
-# b1 = Button(root, command = Select, text = "Choose")
-# b1.pack()
+from tkinter import *
+root = Tk()
+root.geometry("500x500")
+var = StringVar(root)
+var.set("Monday")
+option = OptionMenu(root, var, "Tuesday", "Wendnesday", "Thursday", "Friday","Saturday", "Sunday")
+option.pack()
+def Select():
+    print("You have selected",var.get())
+    root.quit()
+b1 = Button(root, command = Select, text = "Choose")
+b1.pack()
 
 
 
-# root.mainloop()
+root.mainloop()
 
 from tkinter import *
 root = Tk()

@@ -1,0 +1,2 @@
+read pygame documentary from internet
+various things to use in order to use python
