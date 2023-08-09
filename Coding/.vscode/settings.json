@@ -1,6 +1,6 @@
 {
     "editor.mouseWheelZoom": true,
-    "window.zoomLevel": 2,
+    "window.zoomLevel": 3,
     "diffEditor.wordWrap": "on",
     "python.defaultInterpreterPath": "C:\\angel\\python\\Coding\\python.exe",
     "code-runner.clearPreviousOutput": true,

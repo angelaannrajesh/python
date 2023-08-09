@@ -1,0 +1,2 @@
+Codevidhya Homework
+make a bullet and read documentary of pygame
